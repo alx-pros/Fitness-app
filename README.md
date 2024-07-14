@@ -1,50 +1,5 @@
-# Welcome to your Expo app 👋
+# Fitness App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Per sviluppare l'interfaccia utente dell'applicazione, ho sfruttando la  flessibilità e facilità di utilizzo di React Native per creare un'esperienza utente intuitiva. Expo mi ha permesso di semplificare il processo di sviluppo, consentendomi di testare l'applicazione in modo rapido e efficiente sul simulatore per telefono. Per quanto riguarda Reanimated, ho integrato questa libreria per dare vitalità all'applicazione e migliorare l'esperienza visiva. Infine, ho utilizzato ExerciseDB di Rapid API per accedere a un vasto database di esercizi fitness.
 
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Durante la progettazione e lo sviluppo dell'applicazione mobile, ho assimilato e consolidato le basi del linguaggio di React Native e di alcune sue librerie. L'integrazione di ExerciseDB di Rapid API mi ha insegnato come utilizzare API esterne per arricchire le funzionalità dell'app. In generale, questo progetto mi ha fornito una preziosa esperienza pratica e mi ha permesso di ampliare le mie competenze nel campo dello sviluppo di applicazioni mobili.
